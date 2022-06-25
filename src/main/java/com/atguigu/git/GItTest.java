@@ -13,6 +13,6 @@ public class GItTest {
         System.out.println("req1 test");
         System.out.println("push test");
         System.out.println("ssh push test");
-
+        System.out.println("git pull test");
     }
 }
